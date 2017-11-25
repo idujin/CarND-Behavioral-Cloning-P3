@@ -26,9 +26,12 @@
 
 My project includes the following files:
 * model.py containing the script to create and train the model
+* model.ipynb containing same script as model.py
 * drive.py for driving the car in autonomous mode
 * model.h5 containing a trained convolution neural network 
 * writeup_report.md summarizing the results
+* run1.mp4 recording of my vehicle driving autonomously one lap around the track
+* examples images for writeup_report.md
 
 #### 2. Submission includes functional code
 Using the Udacity provided simulator and my drive.py file, the car can be driven autonomously around the track by executing 
